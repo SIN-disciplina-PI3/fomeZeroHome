@@ -30,7 +30,7 @@ import { IconButton,Image } from '@chakra-ui/react'
         Sobre
       </Button>
       <Button colorScheme="teal" mr={4}>
-        Contato
+        Contatos
       </Button>
     </Box>
 
